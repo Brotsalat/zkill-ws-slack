@@ -5,7 +5,7 @@ Install [Python v3.5+](https://www.python.org/downloads/).
 Install [websockets](https://github.com/aaugustin/websockets) via PIP.
 Clone repository. That's it!
 #### Instructions
-Python script can be ran like any other: `py main.py`. Options are passed via arguments. For a list of options, use `py main.py -h`.
+Python script can be ran like any other: `python main.py`. Options are passed via arguments. For a list of options, use `python main.py -h`. Your python executable may be named something like `python3` or `py` instead.
 #### References
 - [zKillboard RedisQ](https://github.com/zKillboard/RedisQ)
 - [zkb-ws-relay](https://github.com/xxpizzaxx/zkb-ws-relay)
